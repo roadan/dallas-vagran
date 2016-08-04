@@ -1,4 +1,4 @@
-#Amaterasu Dev Machine Vagrant Setup
+#Dallas Buyers Dev Machine Vagrant Setup
 
 This repository contains the vagrentfile and provisioning script for creating a dev machine for running the dallas framework demos.
 
